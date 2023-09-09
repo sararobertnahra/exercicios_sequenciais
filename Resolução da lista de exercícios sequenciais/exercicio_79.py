@@ -4,5 +4,5 @@ n = int(input("\ndigite o numero de meses: "))
 
 va = p * (((1 + i ) ** n) - 1) / i
 
-print(f"\nO valor acumulado {va}")
+print(f"\nO valor acumulado: {va}")
 print("\n")
